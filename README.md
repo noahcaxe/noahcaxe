@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Nazar! 👋<br><br>I'm currently a trainee at LeetSoft.<br>A student actively seeking knowledge and hands-on experience — always open to conversations and collaboration!<br><br>Here are some of the skills and technologies I've worked with:
+Hi, I'm Nazar! 👋<br><br>I'm currently a junior developer at LeetSoft.<br>A student actively seeking knowledge and hands-on experience — always open to conversations and collaboration!<br><br>Here are some of the skills and technologies I've worked with:
 
 
 ## 🌐 Socials:
